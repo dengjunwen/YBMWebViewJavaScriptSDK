@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++AEE6E6E" : {
+
+    },
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++A71ECF5" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++AEE6E6E" : 0,
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++A71ECF5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B18DA64B-A169-434F-A032-D7BA67DC407E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++AEE6E6E" : "..",
+    "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++A71ECF5" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YBMWebViewJavaScriptSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/YBMWebViewJavaScriptSDK.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/junwen.deng@172.17.103.2\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++A71ECF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/junwen.deng@172.17.103.2\/mobile\/2015\/Q4\/iOS\/TEST",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74F024389BB3D8D3894AAEB2D5163F41A81550F0+++AEE6E6E"
+    }
+  ]
+}

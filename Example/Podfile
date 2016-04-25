@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'YBMWebViewJavaScriptSDK_Example', :exclusive => true do
+  pod "YBMWebViewJavaScriptSDK", :path => "../"
+end
+
+target 'YBMWebViewJavaScriptSDK_Tests', :exclusive => true do
+  pod "YBMWebViewJavaScriptSDK", :path => "../"
+
+  pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+end

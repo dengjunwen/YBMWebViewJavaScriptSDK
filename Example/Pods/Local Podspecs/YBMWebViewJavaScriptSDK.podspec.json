@@ -1,0 +1,23 @@
+{
+  "name": "YBMWebViewJavaScriptSDK",
+  "version": "0.1.0",
+  "summary": "A short description of YBMWebViewJavaScriptSDK.",
+  "description": "",
+  "authors": {
+    "junwen.deng": "junwen.deng@yeepay.com"
+  },
+  "source": {
+    "git": "/Users/it-1/Documents/c_workspace/iOS_workspace/YBMWebViewJavaScriptSDK/"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/*.*",
+  "resource_bundles": {
+    "YBMWebViewJavaScriptSDK": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/*.h"
+}

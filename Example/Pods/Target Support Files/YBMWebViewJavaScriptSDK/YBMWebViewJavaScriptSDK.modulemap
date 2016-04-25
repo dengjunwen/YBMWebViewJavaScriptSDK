@@ -1,0 +1,6 @@
+framework module YBMWebViewJavaScriptSDK {
+  umbrella header "YBMWebViewJavaScriptSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
